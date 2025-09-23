@@ -1,47 +1,73 @@
-# 👋 Hi, I'm Stefanos!
+# 👋 Hi, I'm Stefanos!  
 
-I'm a 13-year-old developer from Bavaria, Germany 🇩🇪  
-I love turning creative ideas into powerful code — from Python tools to Unity games.
-
----
-
-## 🚀 About Me
-
-- 🧑‍🎓 High school student with a passion for tech and science
-- 💻 I code in **Python**, **HTML/CSS**, **JavaScript**, **Arduino**, and more  
-- 🎮 I'm developing a fantasy story-based game called **SwampXecret** in Unity  
-- 🧠 I'm building an AI-powered **Sign Language ↔ Speech converter** called **SignAI**  
-- 📐 I love **math**, **physics** and coding
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=520&lines=🚀+Young+Developer;🐍+Python+%26+C%23+Coder;🎮+Unity+Game+Creator;🤖+AI+%26+Tech+Enthusiast;📐+Math+%26+Physics+Lover" alt="Typing Animation" />
+</p>
 
 ---
 
-## 🧰 Tech Stack
+## 🚀 About Me  
 
-`Python` • `C#` • `Unity` • `HTML` • `CSS` • `JavaScript` • `Arduino`
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeProTech&show_icons=true&theme=radical&hide_title=false&count_private=true&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeProTech&layout=compact&theme=radical&langs_count=8&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=CodeProTech&theme=radical&hide_border=true)
+- 🧑‍🎓 13-year-old high school student from **Bavaria, Germany 🇩🇪**  
+- 🐍 Writing tools & bots in **Python**  
+- 🎮 Creating a fantasy story-based Unity game: **SwampXecret**  
+- 🤖 Building **SignAI** → AI-powered Sign Language ↔ Speech converter  
+- 📐 Obsessed with **Math, Physics & Problem Solving**  
 
 ---
 
-## ⏱️ Hackatime Stats (WakaTime)
+## 🧰 Tech Stack  
 
-![WakaTime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=3189&api_domain=hackatime.hackclub.com&theme=bear&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cs,unity,html,css,js,arduino&theme=dark" />
+</p>
 
----
-
-## 📫 Contact Me
-
-- 📧 Email: `stefanoskoufogazos@outlook.com` 
 
 ---
 
-Thanks for stopping by! 🌟  
-Feel free to explore my projects and drop a ⭐ if something inspires you!
+## 📊 GitHub Highlights  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeProTech&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeProTech&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=CodeProTech&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🏆 Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CodeProTech&theme=tokyonight&no-frame=true&margin-w=15&column=6" />
+</p>
+
+---
+
+## ⏱️ Coding Activity  
+
+![WakaTime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=3189&api_domain=hackatime.hackclub.com&theme=tokyonight&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
+## ⏱️ Hackatime Stats  
+
+<!-- ![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=17904&api_domain=hackatime.hackclub.com&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=transparent)
+-->
+---
+
+## 🌌 Fun Extras  
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+## 📫 Contact Me  
+
+- 📧 `stefanoskoufogazos@outlook.com`  
+
+---
+
+⭐ *Thanks for visiting — if my projects inspire you, feel free to drop a star!*  
+
