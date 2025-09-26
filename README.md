@@ -28,12 +28,12 @@
 ## 📊 GitHub Highlights  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeProTech&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeProTech&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Stefanos0710&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stefanos0710&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=CodeProTech&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Stefanos0710&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
@@ -41,7 +41,7 @@
 ## 🏆 Achievements  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CodeProTech&theme=tokyonight&no-frame=true&margin-w=15&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Stefanos0710&theme=tokyonight&no-frame=true&margin-w=15&column=6" />
 </p>
 
 ---
