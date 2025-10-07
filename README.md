@@ -8,7 +8,7 @@
 
 ## 🚀 About Me  
 
-- 🧑‍🎓 13-year-old high school student from **Bavaria, Germany 🇩🇪**  
+- 🧑‍🎓 14-year-old high school student from **Bavaria, Germany 🇩🇪**  
 - 🐍 Writing tools & bots in **Python**  
 - 🎮 Creating a fantasy story-based Unity game: **SwampXecret**  
 - 🤖 Building **SignAI** → AI-powered Sign Language ↔ Speech converter  
