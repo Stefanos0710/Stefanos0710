@@ -1,0 +1,28 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 * * * *" # jede Stunde
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Install Markscribe
+        run: |
+          go install github.com/muesli/markscribe@latest
+          export PATH="$PATH:$(go env GOPATH)/bin"
+
+      - name: Generate README
+        run: markscribe README.md.tpl > README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add README.md
+          git commit -m "Update README" || echo "No changes to commit"
+          git push
