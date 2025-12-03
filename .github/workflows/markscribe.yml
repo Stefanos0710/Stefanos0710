@@ -20,7 +20,9 @@ jobs:
           export PATH="$PATH:$(go env GOPATH)/bin"
 
       - name: Generate README
-        run: markscribe README.md.tpl > README.md
+        run: |
+          export PATH="$PATH:$(go env GOPATH)/bin"
+          markscribe README.md.tpl > README.md
 
       - name: Commit changes
         run: |
