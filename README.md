@@ -1,73 +1,24 @@
-# 👋 Hi, I'm Stefanos!  
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1D3557&height=120&section=header" alt="header"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=520&lines=🚀+Young+Developer;🐍+Python+%26+C%23+Coder;🎮+Unity+Game+Creator;🤖+AI+%26+Tech+Enthusiast;📐+Math+%26+Physics+Lover" alt="Typing Animation" />
-</p>
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=1000&size=35&duration=4500&pause=500&color=457B9D&width=435&lines=Hey%2C+I'm+Stefanos!;Python+Coder+%26+AI+Enthusiast" alt="Python Coder & AI enthusiast"/>
+</a>
 
----
+### 🌌 About Me
 
-## 🚀 About Me  
-
-- 🧑‍🎓 14-year-old high school student from **Bavaria, Germany 🇩🇪**  
-- 🐍 Writing tools & programms in **Python**  
-- 🎮 Creating a fantasy story-based Unity game: **SwampXecret**  
-- 🤖 Building **SignAI** → AI-powered Sign Language ↔ Speech converter  
-- 📐 Obsessed with **Math, Physics & Problem Solving**  
+Hey, I'm **Stefanos**, a 14-year-old developer from **Munich, Germany**, originally born in **Greece**.  
+I'm passionate about **Python development**, creative problem-solving and exploring the worlds of **Machine Learning**, **AI**, and modern software engineering.
 
 ---
 
-## 🧰 Tech Stack  
+### Core Skills & Toolkit
+Here are the main technologies and tools I work with:
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,unity,html,css,js,arduino&theme=dark" />
-</p>
-
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,html,css,js,github,git,tensorflow,flask,unity,blender,arduino,opencv,pycharm,webstorm,notion,vercel)](https://skillicons.dev)
 
 ---
 
-## 📊 GitHub Highlights  
+### My Coding Activity
+> This section dynamically displays my coding activity, including my most used languages and contributions across projects.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Stefanos0710&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stefanos0710&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Stefanos0710&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
-
-## 🏆 Achievements  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Stefanos0710&theme=tokyonight&no-frame=true&margin-w=15&column=6" />
-</p>
-
----
-
-## ⏱️ Coding Activity  
-
-![WakaTime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=3189&api_domain=hackatime.hackclub.com&theme=tokyonight&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
-## ⏱️ Hackatime Stats  
-
-<!-- ![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=17904&api_domain=hackatime.hackclub.com&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=transparent)
--->
----
-
-## 🌌 Fun Extras  
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
-## 📫 Contact Me  
-
-- 📧 `stefanoskoufogazos@outlook.com`  
-
----
-
-⭐ *Thanks for visiting — if my projects inspire you, feel free to drop a star!*  
-
+{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
