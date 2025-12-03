@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1D3557&height=120&section=header" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=1000&size=35&duration=4500&pause=500&color=457B9D&width=435&lines=Hey%2C+I'm+Stefanos!;Python+Coder+%26+AI+Enthusiast" alt="Python Coder & AI enthusiast"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=35&duration=4500&pause=500&color=457B9D&width=435&lines=Hey%2C+I'm+Stefanos!;Python+Coder+%26+AI+Enthusiast" alt="Python Coder & AI enthusiast"/>
 </a>
 
 ### 🌌 About Me
