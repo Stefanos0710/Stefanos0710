@@ -1,9 +1,12 @@
 name: Update README
 
 on:
+  push:                # ⬅️ bei jedem Commit/Push starten
+    branches:
+      - main           # oder "master", falls dein Branch so heißt
   schedule:
-    - cron: "0 * * * *" # jede Stunde
-  workflow_dispatch:
+    - cron: "0 * * * *"  # jede Stunde
+  workflow_dispatch:     # manuell starten
 
 jobs:
   build:
