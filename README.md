@@ -19,6 +19,6 @@ Here are the main technologies and tools I work with:
 ---
 
 ### My Coding Activity
-> This section dynamically displays my coding activity, including my most used languages and contributions across projects.
+> This section dynamically displays my coding activity, including my most used languages and contributions across projects from hackatime.
 
 {{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
