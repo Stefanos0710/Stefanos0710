@@ -14,11 +14,17 @@ I'm passionate about **Python development**, creative problem-solving and explor
 ### Core Skills & Toolkit
 Here are the main technologies and tools I work with:
 
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,html,css,js,github,git,tensorflow,flask,unity,blender,arduino,opencv,pycharm,webstorm,notion,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,html,css,js,github,git,tensorflow,flask,unity,blender,arduino,opencv,vercel)](https://skillicons.dev)
 
 ---
 
-### My Coding Activity
-> This section dynamically displays my coding activity, including my most used languages and contributions across projects from hackatime.
 
-{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
+### Hackatime
+![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=17904&api_domain=hackatime.hackclub.com&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=shadow_blue)
+
+---
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Stefanos0710&color=blue)](https://github.com/Stefanos0710)
+[![GitHub followers](https://img.shields.io/github/followers/Stefanos0710?label=followers&style=flat-square)](https://github.com/Stefanos0710)
+[![Stars](https://img.shields.io/github/stars/Stefanos0710?label=Total%20Stars&style=flat-square&color=blue)](https://github.com/Stefanos0710?tab=repositories)
+
