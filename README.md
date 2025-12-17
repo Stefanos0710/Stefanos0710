@@ -24,6 +24,21 @@ Here are the main technologies and tools I work with:
 
 ---
 
+### Competitions & Achievements
+
+- **Moonshot – Hack Club** – *1st Place*  
+  Winner of the international Hack Club hackathon Moonshot.
+
+- **Jugend forscht 2023 / 2024** – *1st Place*  
+  Project: **Autonomous Tile Grouting Robot (Fugenreiniger)**  
+  Designed and built a robotic system for automated tile grouting with software-controlled precision.
+
+- **Jugend forscht 2024 / 2025** – *2nd Place*  
+  Project: **SignAI**  
+  AI-based system for real-time sign language ↔ audio translation.
+
+---
+
 [![Profile Views](https://komarev.com/ghpvc/?username=Stefanos0710&color=blue)](https://github.com/Stefanos0710)
 [![GitHub followers](https://img.shields.io/github/followers/Stefanos0710?label=followers&style=flat-square)](https://github.com/Stefanos0710)
 [![Stars](https://img.shields.io/github/stars/Stefanos0710?label=Total%20Stars&style=flat-square&color=blue)](https://github.com/Stefanos0710?tab=repositories)
