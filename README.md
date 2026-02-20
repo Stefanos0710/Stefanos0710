@@ -27,7 +27,7 @@ Here are the main technologies and tools I work with:
 ### Competitions & Achievements
 
 - **Moonshot – Hack Club** – *1st Place*  
-  Winner of the international Hack Club hackathon Moonshot.
+  Winner of the international Hack Club hackathon Moonshot in Orlando, Florida
 
 - **Jugend forscht 2023 / 2024** – *1st Place*  
   Project: **Autonomous Tile Grouting Robot (Fugenreiniger)**  
