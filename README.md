@@ -29,11 +29,11 @@ Here are the main technologies and tools I work with:
 - **Moonshot – Hack Club** – *1st Place*  
   Winner of the international Hack Club hackathon Moonshot in Orlando, Florida
 
-- **Jugend forscht 2023 / 2024** – *1st Place*  
+- **Jugend forscht 2024** – *1st Place*  
   Project: **Autonomous Tile Grouting Robot (Fugenreiniger)**  
   Designed and built a robotic system for automated tile grouting with software-controlled precision.
 
-- **Jugend forscht 2024 / 2025** – *2nd Place*  
+- **Jugend forscht 2025/2026** – *1st and 2nd Place*  
   Project: **SignAI**  
   AI-based system for real-time sign language ↔ audio translation.
 
