@@ -6,7 +6,7 @@
 
 ### 🌌 About Me
 
-Hey, I'm **Stefanos**, a 14-year-old developer from **Munich, Germany**, originally born in **Greece**.  
+Hey, I'm **Stefanos**, a 15-year-old developer from **Munich, Germany**, originally born in **Greece**.  
 I'm passionate about **Python development**, creative problem-solving and exploring the worlds of **Machine Learning**, **AI**, and modern software engineering.
 
 ---
